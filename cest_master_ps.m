@@ -11,6 +11,9 @@ function cest_master_ps
 % 
 
 close all
+addpath(genpath(strcat(pwd,'/routines')))
+addpath(genpath(strcat(pwd,'/pulses')))
+
 b_mz_evolution = 'false'; % SLOW! Show the signal evolution of Mz component. Options: false (for NO) or true (for YES)
 
 % pools = {'Pool Name', Water T1 [s], Water T2 [s], Chemical Shift of the Pool relative to Water [ppm], ...
