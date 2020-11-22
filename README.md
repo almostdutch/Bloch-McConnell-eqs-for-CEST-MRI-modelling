@@ -20,10 +20,10 @@ which means that absolutely any (!) sequence parameters can be editted and tuned
 the simulator can analyze the spectrum in terms of the underlying basis functions that constitute the spectrum. Furthermore, it's possible to monitor 
 the full evolution of Mz component over time, which can be important, for example, to check if a steady-state is reached.
 
-Example of simulating a steady-state MRI sequence:
+Example of simulating a steady-state CEST-MRI sequence:
 ![](https://github.com/almostdutch/Bloch-McConnell-eqs-for-CEST-MRI-modelling/blob/master/ss-CEST-MRI-sequences.jpg)
 
-Example of simulating a pseudosteady-state MRI sequence:
+Example of simulating a pseudosteady-state CEST-MRI sequence:
 ![](https://github.com/almostdutch/Bloch-McConnell-eqs-for-CEST-MRI-modelling/blob/master/ps-CEST-MRI-sequences.jpg)
 
 
