@@ -9,8 +9,8 @@ For the full metabolic analysis of CEST-MRI spectra, see Khlebnikov V. et al. An
 to the Z-spectra at various field strengths and pH. Sci. Reports. 9, 1098 (2019). 
 
 
-cest_master_ss.m is a master script containing sequence parameters for steady-state CEST-MRI sequences
-cest_master_ps.m is a master script containing sequence parameters for pseudosteady-state CEST-MRI sequences
+cest_master_ss.m is a master script containing sequence parameters for a steady-state CEST-MRI sequences
+cest_master_ps.m is a master script containing sequence parameters for a pseudosteady-state CEST-MRI sequences
 
 Folder **pulses** contains RF profiles of preparation (MT) and excitation pulses\
 Folder **routines** contains the core routines of the simulator
