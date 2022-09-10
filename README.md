@@ -27,6 +27,7 @@ Example of simulating a steady-state CEST-MRI sequence:
 Example of simulating a pseudosteady-state CEST-MRI sequence:
 ![](https://github.com/almostdutch/Bloch-McConnell-eqs-for-CEST-MRI-modelling/blob/master/ps-CEST-MRI-sequences.jpg)
 
+CEST-MRI animation:
 ![](https://github.com/almostdutch/Bloch-McConnell-eqs-for-CEST-MRI-modelling/blob/master/cest_movie.gif)
 
 
