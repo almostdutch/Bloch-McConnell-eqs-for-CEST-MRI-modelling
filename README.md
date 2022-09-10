@@ -1,7 +1,5 @@
 # Bloch McConnell equations simulator
 
-![](https://github.com/almostdutch/Bloch-McConnell-eqs-for-CEST-MRI-modelling/blob/master/cest_movie.gif)
-
 Program to model CEST-MRI effects with an arbitrary number of pools using a fully-scalable system of differential equations
 
 
@@ -29,6 +27,7 @@ Example of simulating a steady-state CEST-MRI sequence:
 Example of simulating a pseudosteady-state CEST-MRI sequence:
 ![](https://github.com/almostdutch/Bloch-McConnell-eqs-for-CEST-MRI-modelling/blob/master/ps-CEST-MRI-sequences.jpg)
 
+![](https://github.com/almostdutch/Bloch-McConnell-eqs-for-CEST-MRI-modelling/blob/master/cest_movie.gif)
 
 
 
