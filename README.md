@@ -1,4 +1,7 @@
 # Bloch McConnell equations simulator
+
+![](https://github.com/almostdutch/Bloch-McConnell-eqs-for-CEST-MRI-modelling/blob/master/cest_movie.gif)
+
 Program to model CEST-MRI effects with an arbitrary number of pools using a fully-scalable system of differential equations
 
 
